@@ -1,12 +1,13 @@
 # 📊 PhonePe Transaction Insights Dashboard
 
-## Project Overview
-
-This project presents an interactive Power BI dashboard inspired by PhonePe transaction analytics. The dashboard provides insights into transaction volume, transaction value, user engagement, and payment success rates through dynamic visualizations.
 
 ## Dashboard Preview
 
-![Dashboard](e:\SUMMER INTERNSHIP LPU\PhonePe-Transaction-Insights-Dashboard\Images\Dashboard.png)
+![Dashboard](Images/Dashboard.png)
+
+## Project Overview
+
+This project presents an interactive Power BI dashboard inspired by PhonePe transaction analytics. The dashboard provides insights into transaction volume, transaction value, user engagement, and payment success rates through dynamic visualizations.
 
 ## Key Performance Indicators
 
